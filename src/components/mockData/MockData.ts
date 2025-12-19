@@ -187,157 +187,157 @@ export const mockAccounts: Account[] = [
     transaction_history: [
       {
         dateTime: 'December 13, 2025',
-        description: 'Global Streaming Royalties Payout – XXXXXX4475',
+        description: 'Wegmans account Ltd - XXXXXX4475',
         status: 'Success',
         amount_usd: 413000
       },
       {
         dateTime: 'September 20, 2024',
-        description: 'International Tour Revenue Settlement – XXXXXX9634',
+        description: 'Wegmans account Ltd - XXXXXX9634',
         status: 'Success',
         amount_usd: 413000
       },
       {
         dateTime: 'August 10, 2023',
-        description: 'Film Production Profit Distribution – XXXXXX7362',
+        description: 'Asset Liquidation Co. - XXXXXX7362',
         status: 'Success',
         amount_usd: 123900
       },
       {
         dateTime: 'July 8, 2023',
-        description: 'Catalog Rights Licensing Income – XXXXXX9145',
+        description: 'Decedent Refund Group - XXXXXX9145',
         status: 'Success',
         amount_usd: 103250
       },
       {
         dateTime: 'June 15, 2023',
-        description: 'Music Publishing Backpay Settlement – XXXXXX2567',
+        description: 'Tax Refund Receivables LLC - XXXXXX2567',
         status: 'Success',
         amount_usd: 82600
       },
       {
         dateTime: 'May 20, 2023',
-        description: 'Brand Endorsement Transfer – XXXXXX2747',
+        description: 'Transfer From Williams Peter - XXXXXX2747',
         status: 'Success',
         amount_usd: 61950
       },
       {
         dateTime: 'April 18, 2023',
-        description: 'Production Insurance Reimbursement – XXXXXX4921',
+        description: 'Insurance Claim Services - XXXXXX4921',
         status: 'Success',
         amount_usd: 41300
       },
       {
         dateTime: 'March 10, 2023',
-        description: 'Entertainment Account Processing Fee – XXXXXX2327',
+        description: 'Transaction fee - XXXXXX2327',
         status: 'Success',
         amount_usd: -35
       },
       {
         dateTime: 'March 10, 2023',
-        description: 'Talent Management Advance Repayment – XXXXXX8012',
+        description: 'Kinship Capital Holdings - XXXXXX8012',
         status: 'Success',
         amount_usd: -81600
       },
       {
         dateTime: 'February 5, 2023',
-        description: 'Entertainment Account Processing Fee – XXXXXX2372',
+        description: 'Transaction fee - XXXXXX2372',
         status: 'Success',
         amount_usd: -35
       },
       {
         dateTime: 'January 20, 2023',
-        description: 'International Wire Transfer Fee – XXXXXX1373',
+        description: 'Transfer fee - XXXXXX1373',
         status: 'Success',
         amount_usd: -80
       },
       {
         dateTime: 'January 10, 2023',
-        description: 'Entertainment Account Processing Fee – XXXXXX35638',
+        description: 'Transaction fee - XXXXXX35638',
         status: 'Success',
         amount_usd: -35
       },
       {
         dateTime: 'January 10, 2023',
-        description: 'Tour Production Financing Repayment – XXXXXX3763',
+        description: 'Kinship Capital Holdings - XXXXXX3763',
         status: 'Success',
         amount_usd: -39000
       },
       {
         dateTime: 'January 5, 2023',
-        description: 'Entertainment Account Processing Fee – XXXXXX2327',
+        description: 'Transaction fee - XXXXXX2327',
         status: 'Success',
         amount_usd: -35
       },
       {
         dateTime: 'January 5, 2023',
-        description: 'Luxury Vehicle Lease for Artist Transport – XXXXXX9655',
+        description: 'Transfer to Olivia Auto Ltd. - XXXXXX9655',
         status: 'Success',
         amount_usd: -75000
       },
       {
         dateTime: 'November 23, 2022',
-        description: 'Legacy Brand Licensing Revenue – XXXXXX3345',
+        description: 'Succession Planning Group - XXXXXX3345',
         status: 'Success',
         amount_usd: 165200
       },
       {
         dateTime: 'October 18, 2022',
-        description: 'Residuals Payment from Media Distributor – XXXXXX8429',
+        description: 'Transfer from Federal Deposit Insurance Corp - XXXXXX8429',
         status: 'Success',
         amount_usd: 123900
       },
       {
         dateTime: 'September 15, 2022',
-        description: 'Private Appearance Booking Payment – XXXXXX0045',
+        description: 'Transfer from Patrick Miller - XXXXXX0045',
         status: 'Success',
         amount_usd: 82600
       },
       {
         dateTime: 'August 30, 2022',
-        description: 'Tech Brand Collaboration Revenue – XXXXXX6542',
+        description: 'Transfer from NovaTech Solutions - XXXXXX6542',
         status: 'Success',
         amount_usd: 24780
       },
       {
         dateTime: 'July 25, 2022',
-        description: 'Rights & Catalog Administration Settlement – XXXXXX1254',
+        description: 'Estate Settlement Services - XXXXXX1254',
         status: 'Success',
         amount_usd: 16520
       },
       {
         dateTime: 'July 10, 2022',
-        description: 'Account Maintenance Fee – XXXXXX1070',
+        description: 'Maintenance fee - XXXXXX1070',
         status: 'Success',
         amount_usd: -125
       },
       {
         dateTime: 'June 20, 2022',
-        description: 'Entertainment Account Processing Fee – XXXXXX6433',
+        description: 'Transaction fee - XXXXXX6433',
         status: 'Success',
         amount_usd: -35
       },
       {
         dateTime: 'June 20, 2022',
-        description: 'Creative Consultant Payment – XXXXXX3707',
+        description: 'Transfer to Kelvin Kane - XXXXXX3707',
         status: 'Success',
         amount_usd: -3500
       },
       {
         dateTime: 'May 25, 2022',
-        description: 'Account Maintenance Fee – XXXXXX3663',
+        description: 'Maintenance fee - XXXXXX3663',
         status: 'Success',
         amount_usd: -125
       },
       {
         dateTime: 'April 10, 2022',
-        description: 'International Wire Transfer Fee – XXXXXX5668',
+        description: 'Transfer fee - XXXXXX5668',
         status: 'Success',
         amount_usd: -80
       },
       {
         dateTime: 'April 10, 2022',
-        description: 'Stage & Production Equipment Payment – XXXXXX1384',
+        description: 'Transfer to Summit Corp - XXXXXX1384',
         status: 'Success',
         amount_usd: -8000
       }
